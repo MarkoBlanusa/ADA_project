@@ -8,3 +8,5 @@ Then use "main_test_results.py" and "test_trade_env_numpy.py" for both training.
 In the "main_test_results.py", adapt the directory of your folder for checkpoints. 
 
 If you want to create or store new data in the dataset, use the "main_data.py" module and choose the desired values. 
+
+"Custom_LSTM_FNN.py", "main_states.py", "trade_env_states.py" and "utils.py" are not necessary anymore. 
