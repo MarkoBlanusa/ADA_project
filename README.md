@@ -1,5 +1,6 @@
-https://drive.google.com/file/d/1eMKWa2whffjVSV0kldTFEDWa7E1YjC2E/view?usp=sharing
 
+For dataset and checkpoints
+https://drive.google.com/drive/folders/17MIKdY7reX_TAYMpGl4GhkvzxCW3687o?usp=drive_link
 
 For train and training with the states being in numpy, use "main.py" and "trade_env_numpy.py". For training  with ray, use "main_ray.py" and "trade_env_ray.py"
 
