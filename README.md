@@ -7,4 +7,4 @@ For train and training with the states being in numpy, use "main.py" and "trade_
 Then use "main_test_results.py" and "test_trade_env_numpy.py" for both training. The testing is always done in numpy. 
 In the "main_test_results.py", adapt the directory of your folder for checkpoints. 
 
-If you want to create or store new data in the dataset, use the "data_collector.py" module by instantiating
+If you want to create or store new data in the dataset, use the "main_data.py" module and choose the desired values. 
